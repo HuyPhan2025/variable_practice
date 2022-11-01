@@ -5,3 +5,5 @@
 - 36
 - 1200.00
 -60000.00
+deposit_paid
+happy_day
