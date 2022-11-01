@@ -5,5 +5,5 @@
 - 36
 - 1200.00
 -60000.00
-deposit_paid
-happy_day
+var deposit_paid = true
+var happy_day = false
